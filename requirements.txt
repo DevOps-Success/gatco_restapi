@@ -1,2 +1,2 @@
-sanic
-sqlalchemy
+sanic<=19.9.0
+sqlalchemy==1.3.5
